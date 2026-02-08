@@ -47,6 +47,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 └── public/        # Static assets
 ```
 
-## License
+## UI
+<img width="1416" height="892" alt="image" src="https://github.com/user-attachments/assets/c166c7d8-7ea6-4113-a2e7-a5a9c853d1d6" />
+<img width="1363" height="760" alt="image" src="https://github.com/user-attachments/assets/44fcd3fd-6da4-4c07-9b13-04166bb5c564" />
 
-MIT
